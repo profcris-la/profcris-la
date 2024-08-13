@@ -3,7 +3,7 @@
 Meu nome é Cris Lima
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem de Javascript
+- Estou me desenvolvendo na linguagem de Javascript, HTML e CSS
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você pode entrar em contato comigo 📫
